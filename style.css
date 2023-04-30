@@ -1,0 +1,19 @@
+body{
+    background:linear-gradient(rgb(0, 255, 255),rgb(0, 119, 255))
+}
+
+#score{
+    font-size: 30px;
+    margin-left: -1450px;
+    
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 50;
+}
+
+#draw_what{
+    color:crimson;
+}
